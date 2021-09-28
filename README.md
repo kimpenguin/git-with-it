@@ -1,2 +1,3 @@
-# git-with-it
-Git starter repository
+# Git With It
+
+Repository to get started with Git and GitHub.
